@@ -2,7 +2,7 @@
 
 **Curso:** Ethical Hacker — Cisco Networking Academy  
 **Estado:** Completado ✓  
-**Puntuación:** 100%  
+**Puntuación:** 72%  
 
 ---
 
